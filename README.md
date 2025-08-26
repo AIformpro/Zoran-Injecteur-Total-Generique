@@ -11,3 +11,6 @@ Injecteur généralisé basé sur le cahier des charges Bénédicte, applicable 
 
 ## Licence
 MIT
+
+dépôt Zoran IA github réalisé conjointement  avec 
+Benedicte HELFER, benedictehelfer3@gmail.com
