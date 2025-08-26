@@ -1,0 +1,15 @@
+champ,type,obligation
+RUN_ID,string,req
+DateHeure,datetime,req
+Profil,enum,req
+Objectif,text,req
+Idee_ID,string/int,req
+Texte_Idee,text,req
+Risques,text,req
+Testabilite,text,req
+Decision,enum,req
+Raison,text,req
+FI,float,req
+Seuils_Franchis,bool,req
+Action,enum,req
+Hash_Seance,string,req

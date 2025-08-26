@@ -1,2 +1,13 @@
 # Zoran-Injecteur-Total-Generique
-Cadre neutre et traçable pour structurer les séances utilisateurs : Exploratoire (≥3 sauts/ idée) → Convergence (≥3 tests, indicateurs invariants, FI≥0.92 modifiable). Saisie par idée, journalisation signée (SHA256), exports CSV/JSON/YAML/JSON-LD. Modes 12 mois / 12 rangs + complément décennal. Version bifique LM/ZM incluse. Licence MIT.
+
+Injecteur généralisé basé sur le cahier des charges Bénédicte, applicable à Zoran et aux utilisateurs.
+
+## Fonctionnement
+- Exploratoire → Convergence, saisie par idée.
+- FI ≥0.92 (modifiable), rollback ΔM11.3-light.
+- Journalisation signée (SHA256).
+- Exports enrichis : CSV, JSON, YAML, JSON-LD.
+- 12 mois/12 rangs + complément décennal.
+
+## Licence
+MIT

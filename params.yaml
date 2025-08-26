@@ -1,0 +1,5 @@
+fi_threshold_default: 0.92
+profiles:
+  Blue-Sky: {}
+  Research: {}
+  Strict: {}

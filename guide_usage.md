@@ -1,0 +1,1 @@
+Exploratoire: objectif + ≥3 idées + risques/testabilité → short-list. Convergence: ≥3 tests falsifiants/ idée, indicateurs, FI, décision. Hash obligatoire.

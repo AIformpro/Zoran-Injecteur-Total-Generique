@@ -1,0 +1,1 @@
+Cadre neutre et traçable : Exploratoire (≥3 sauts/ idée) → Convergence (≥3 tests, indicateurs invariants, FI≥0.92 modifiable). Saisie par idée, journal SHA256, exports CSV/JSON/YAML/JSON-LD. 12 mois/12 rangs + complément décennal. Version bifique LM/ZM incluse. MIT.

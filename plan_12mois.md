@@ -1,0 +1,1 @@
+12 mois / 12 rangs: progression mensuelle avec montée en rigueur.

@@ -1,0 +1,1 @@
+Indicateurs invariants: jointures≤5%, mouvement≤2%, drift énergie p95≤3%, Fisher≤8%p95, topologie≤0.12, spectral≤0.10, Δ anomalies≤5.
